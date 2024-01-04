@@ -1,7 +1,3 @@
-Absolutely, let's add some emojis and polish it up a bit:
-
----
-
 # 🌦️ Weather App
 
 Welcome to the Weather App by abdullahCdoer-Tech! This web application allows users to check the current weather conditions of any location.
