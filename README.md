@@ -25,7 +25,7 @@ Follow these steps to get the app up and running on your local machine:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/WeatherApp.git
+   git clone https://github.com/abdullah4tech/Weather-App.git
    ```
 
 2. **Open the project folder**
@@ -33,6 +33,7 @@ Follow these steps to get the app up and running on your local machine:
 3. **Open `index.html` in your web browser**
 
 ## 🖥️ Live Demo
+
 Check out the live demo <a href="https://gogle.com" target="_blank">here</a>.
 
 ## 🖥️ Usage
