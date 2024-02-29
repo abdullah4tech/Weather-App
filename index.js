@@ -13,8 +13,15 @@ search.addEventListener('click', () => {
     const city = document.querySelector('.search-box input').value;
 
     // Check if the city input is empty
-    if (city === '')
+    if (city === ''){
+        container.style.height = '400px';
+        weatherBox.style.display = 'none';
+        weatherDetails.style.display = 'none';
+        error404.style.display = 'block';
+        error404.classList.add('fadeIn');
         return;
+    }
+        
 
     // Fetch weather data from the OpenWeatherMap API
     fetch(`https://api.openweathermap.org/data/2.5/weather?q=${city}&units=metric&appid=${APIKey}`)
