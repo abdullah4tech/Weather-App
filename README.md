@@ -3,12 +3,14 @@
 Welcome to the Weather App by abdullahCdoer-Tech! This web application allows users to check the current weather conditions of any location.
 
 ## 📋 Table of Contents
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Built With](#built-with)
-- [Contributing](#contributing)
-- [License](#license)
+
+- [Features](#🚀-features)
+- [Getting Started](#🛠️-getting-started)
+- [Live Demo](#🖥️-live-demo)
+- [Usage](#🖥️-usage)
+- [Built With](#🛠️-built-with)
+- [Contributing](#🤝-contributing)
+- [License](#📄-license)
 
 ## 🚀 Features
 
@@ -30,6 +32,9 @@ Follow these steps to get the app up and running on your local machine:
 
 3. **Open `index.html` in your web browser**
 
+## 🖥️ Live Demo
+Check out the live demo <a href="https://gogle.com" target="_blank">here</a>.
+
 ## 🖥️ Usage
 
 1. Enter the location in the search box.
@@ -44,7 +49,7 @@ Follow these steps to get the app up and running on your local machine:
 
 ## 🤝 Contributing
 
-Feel free to contribute to this project. Fork the repository and make your changes. Submit a pull request, and let's make this app even better together!
+Feel free to contribute to this project. Fork the repository and make your changes. Submit a pull request, and let's make this app even better together! - see the [CONTRIBUTING.md](CONTRIBUTING.md) file for details.
 
 ## 📄 License
 
