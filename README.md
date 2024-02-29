@@ -34,7 +34,7 @@ Follow these steps to get the app up and running on your local machine:
 
 ## 🖥️ Live Demo
 
-Check out the live demo <a href="https://gogle.com" target="_blank">here</a>.
+Check out the live demo <a href="weather-app-kappa-seven-52.vercel.app" target="_blank">here</a>.
 
 ## 🖥️ Usage
 
